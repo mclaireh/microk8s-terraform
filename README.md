@@ -1,4 +1,4 @@
-# MicroK8s Terraform Infrastructure
+# microk8s-terraform
 
 This repository contains Terraform configurations for managing a MicroK8s cluster infrastructure.
 
